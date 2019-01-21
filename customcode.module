@@ -1,0 +1,13 @@
+<?php
+
+// Custom Code Module
+
+function customcode_theme($existing, $type, $theme, $path) {
+    return [
+        'index' => [
+            'variables' => [
+                'date' => 0,
+            ],
+        ],
+    ];
+}

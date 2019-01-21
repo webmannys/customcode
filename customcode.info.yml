@@ -1,0 +1,6 @@
+name: Custom Code
+description: Drupal 8 Custom Module for a Custom Block to do programmatic code in the block.
+package: custom
+type: module
+version: 1.0
+core: 8.x
