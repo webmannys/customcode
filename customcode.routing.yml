@@ -1,7 +1,7 @@
 customcode.page:
-  path: '/customcode/phpcs' 
+  path: '/customcode' 
   defaults: 
     _controller: '\Drupal\customcode\Controller\CustomCodeController::page' 
-    _title: 'Customcode Phpcs Page'
+    _title: 'Customcode Page'
   requirements: 
     _permission: 'access content'
